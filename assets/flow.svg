@@ -1,0 +1,18 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="TerraFormal flow">
+  <rect width="1200" height="280" rx="16" fill="#0f172a"/>
+  <rect x="42" y="96" width="230" height="88" rx="12" fill="#111827" stroke="#86efac"/>
+  <text x="157" y="130" text-anchor="middle" fill="#ecfdf5" font-size="22" font-family="Segoe UI, Arial">Terraform Plan</text>
+  <text x="157" y="158" text-anchor="middle" fill="#bbf7d0" font-size="18" font-family="Segoe UI, Arial">plan.json input</text>
+  <rect x="334" y="96" width="220" height="88" rx="12" fill="#111827" stroke="#86efac"/>
+  <text x="444" y="130" text-anchor="middle" fill="#ecfdf5" font-size="22" font-family="Segoe UI, Arial">Parser</text>
+  <text x="444" y="158" text-anchor="middle" fill="#bbf7d0" font-size="18" font-family="Segoe UI, Arial">Resource extraction</text>
+  <rect x="616" y="96" width="220" height="88" rx="12" fill="#111827" stroke="#86efac"/>
+  <text x="726" y="130" text-anchor="middle" fill="#ecfdf5" font-size="22" font-family="Segoe UI, Arial">Code Generator</text>
+  <text x="726" y="158" text-anchor="middle" fill="#bbf7d0" font-size="18" font-family="Segoe UI, Arial">Lean declarations</text>
+  <rect x="898" y="96" width="260" height="88" rx="12" fill="#111827" stroke="#86efac"/>
+  <text x="1028" y="130" text-anchor="middle" fill="#ecfdf5" font-size="22" font-family="Segoe UI, Arial">Formal Output</text>
+  <text x="1028" y="158" text-anchor="middle" fill="#bbf7d0" font-size="18" font-family="Segoe UI, Arial">output.lean artifacts</text>
+  <line x1="272" y1="140" x2="334" y2="140" stroke="#86efac" stroke-width="4"/>
+  <line x1="554" y1="140" x2="616" y2="140" stroke="#86efac" stroke-width="4"/>
+  <line x1="836" y1="140" x2="898" y2="140" stroke="#86efac" stroke-width="4"/>
+</svg>

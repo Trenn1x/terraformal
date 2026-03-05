@@ -33,3 +33,6 @@ stack run terraform-plan.json output.lean
 - `src/Parser.hs` reads and interprets Terraform plan JSON.
 - `src/CodeGen.hs` converts parsed resources into Lean code.
 - `app/Main.hs` CLI entrypoint.
+
+## Translation Flow
+![TerraFormal Flow](assets/flow.svg)
